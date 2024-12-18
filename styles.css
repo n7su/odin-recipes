@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(240, 100%, 5%);
+    text-align: center;
+    color: hsl(240, 100%, 95%);
+    font-family: sans-serif;
+    font-size: 1.3rem;
+    line-height: 1.1;
+    width: 50vw;
+    margin: 0 auto;
+}
+
+ul, ol {
+    padding: 0;
+    list-style-position: inside;
+}
+
+img {
+    width: 40vw;
+}
+
+a {
+    display: block;
+}
